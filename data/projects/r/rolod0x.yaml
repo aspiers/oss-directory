@@ -1,6 +1,7 @@
 version: 7
 name: rolod0x
 display_name: rolod0x
+description: A blockchain address book and contact management system for organizing and managing crypto wallet addresses and identities.
 websites:
   - url: https://rolod0x.io
 github:
