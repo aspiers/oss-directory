@@ -1,5 +1,7 @@
 version: 7
 name: rolod0x
 display_name: rolod0x
+websites:
+  - url: https://rolod0x.io
 github:
-  - url: https://github.com/rolod0x
+  - url: https://github.com/rolod0x/rolod0x
